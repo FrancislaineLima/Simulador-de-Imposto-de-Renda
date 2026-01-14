@@ -44,13 +44,14 @@ Interface com botões e menus;
 <img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/3d11cadd-8bdb-4a51-a52c-58986ab945df" />
 
 
-🎯 Objetivo do Projeto
-O projeto foi desenvolvido com foco em produtividade, usabilidade e organização financeira, sendo ideal tanto para uso pessoal quanto como base para futuras melhorias, como relatórios automáticos ou integração com outros controles financeiros.
-Além disso, o projeto faz parte do meu portfólio acadêmico/prático, demonstrando habilidades em modelagem de dados, organização de informações e automação no Excel.
+🎯 Objetivo do Projeto:
+
+
+O objetivo deste projeto é fornecer uma ferramenta prática e organizada para controle e centralização de dados financeiros, permitindo que o usuário registre, acompanhe e analise suas informações de forma simples e eficiente. A solução foi desenvolvida no Microsoft Excel, com foco em usabilidade, validação de dados e automação, facilitando o acompanhamento de entradas financeiras e apoiando a tomada de decisão e o planejamento financeiro pessoal.
 
 <img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/03838d13-3885-4f12-a5ae-1b8173a7135b" />
 
 
-👩‍💻 Autora
-Francislaine Lima
-Estudante de ads na Fatec Gru
+👩‍💻 Autora:
+
+Francislaine Lima,Estudante de ads na Fatec Gru.
