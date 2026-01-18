@@ -10,7 +10,7 @@ Toda a solução foi construída exclusivamente no Microsoft Excel, utilizando r
 
 
 
-#🚀 Funcionalidades:
+🚀 Funcionalidades:
 
 📌 Registro e controle de entradas financeiras mês a mês;
 
