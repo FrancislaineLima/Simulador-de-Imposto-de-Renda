@@ -54,4 +54,4 @@ O objetivo deste projeto é fornecer uma ferramenta prática e organizada para c
 
 👩‍💻 Autora:
 
-Francislaine Lima,Estudante de ads na Fatec Gru.
+Francislaine Lima, Estudante de Análise e Desenvolvimento de Sistemas – Fatec Gru
